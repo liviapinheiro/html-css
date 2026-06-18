@@ -1,0 +1,22 @@
+Ex 1. Olá, mundo
+Ex 2. Parágrafos, símbolos e emojis
+Ex 3. Adicionando imagens
+Ex 4. Adicionando favicon
+Ex 6. Hierarquia de Títulos
+Ex 8. Formatação de Textos
+Ex 8b. Outras formatações
+Ex 9. Listas
+Ex 10. Links
+Ex 11. Mídias
+Ex 12. Vídeos
+Ex 12 - Desafio: Recomendação de Vídeos
+Ex 13. Estilos inline
+Ex 14. Estilos locais
+Ex 15. Estilos externos
+Ex 16. Cores em CSS
+Ex 17. Fontes em CSS
+Ex 18. Fontes com Google Fonts
+Ex 19. Seletores personalizados
+Ex 20. Pseudoclasses
+Ex 21. Grouping Tags
+Ex 21 - Desafio: Android
